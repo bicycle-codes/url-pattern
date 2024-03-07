@@ -1,5 +1,5 @@
 {
-  "name": "url-pattern",
+  "name": "@bicycle-codes/url-pattern",
   "version": "1.0.3",
   "description": "easier than regex string matching patterns for urls and other strings. turn strings into data or data into strings.",
   "keywords": [

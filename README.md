@@ -96,6 +96,9 @@ null
 null
 ```
 
+## fork
+This is a fork of [snd/url-pattern](https://github.com/snd/url-pattern).
+
 ## make pattern from string
 
 ```javascript
